@@ -25,8 +25,9 @@
 	<img  src="https://media.giphy.com/media/bEmaEFJWtiFs55uzxZ/giphy.gif">
 
 </div>
+
 ## :page_facing_up: Descrição
-Interface vizual do StarBucks
+Interface visual do StarBucks
 
 
 
