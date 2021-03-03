@@ -21,9 +21,9 @@
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-Licença">Licença</a>
 </p>
-
+<div align="center">
 ![Starbucks](https://media.giphy.com/media/bEmaEFJWtiFs55uzxZ/giphy.gif)
-
+</div>
 ## :page_facing_up: Descrição
 Interface vizual do StarBucks
 
